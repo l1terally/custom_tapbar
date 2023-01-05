@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		94732FD12961A3A4002186A9 /* custom_tapbar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = custom_tapbar.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		94732FD42961A3A4002186A9 /* custom_tapbarApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = custom_tapbarApp.swift; sourceTree = "<group>"; };
-		94732FD62961A3A4002186A9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		94732FD62961A3A4002186A9 /* ContentView.swift */ = {isa = PBXFileReference; indentWidth = 4; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; tabWidth = 4; usesTabs = 0; wrapsLines = 1; };
 		94732FD82961A3A5002186A9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		94732FDB2961A3A5002186A9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
